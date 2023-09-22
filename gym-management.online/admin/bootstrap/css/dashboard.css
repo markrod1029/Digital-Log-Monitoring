@@ -1,0 +1,41 @@
+.charts {
+	margin-top: 10px;
+	text-align: center;
+    font-size: 40px;
+
+}
+.boxs {
+                margin: 0;
+                width: 170px;
+                height: 80px;
+                border-radius: 10px;
+                background: #8caffbab;
+			}
+#boxss .sub{
+    font-size: 20px;
+    text-align: center;
+    margin: 0px 5px 5px 100px;
+    width: 300px;
+    height: 100px;
+    background-color: white;
+}
+#boxss .student{
+    font-size: 20px;
+    text-align: center;
+    margin: 0px 5px 5px 100px;
+    width: 300px;
+    height: 100px;
+    background-color: white;
+}
+#boxss .teacher{
+    font-size: 20px;
+    text-align: center;
+    margin: 0px 5px 5px 100px;
+    width: 300px;
+    height: 100px;
+    background-color: white;
+}
+.tchart{
+    font-size: 50px;
+    color: green;
+}

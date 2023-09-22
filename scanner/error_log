@@ -1,0 +1,24 @@
+[24-Jan-2023 13:27:30 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/tj6gnl1k9vif/public_html/scanner/includes/conn.php on line 2
+[24-Jan-2023 13:27:31 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/tj6gnl1k9vif/public_html/scanner/includes/conn.php on line 2
+[24-Jan-2023 13:29:19 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/tj6gnl1k9vif/public_html/scanner/includes/conn.php on line 2
+[18-Apr-2023 06:40:21 UTC] PHP Parse error:  syntax error, unexpected token "<" in /home/tj6gnl1k9vif/public_html/scanner/afternoon.php on line 93
+[18-Apr-2023 06:41:13 UTC] PHP Parse error:  syntax error, unexpected token "<" in /home/tj6gnl1k9vif/public_html/scanner/afternoon.php on line 93
+[18-Apr-2023 06:42:35 UTC] PHP Parse error:  syntax error, unexpected token "<" in /home/tj6gnl1k9vif/public_html/scanner/morning.php on line 94
+[24-Apr-2023 15:10:16 UTC] PHP Parse error:  syntax error, unexpected token "/", expecting end of file in /home/tj6gnl1k9vif/public_html/scanner/index.php on line 4
+[25-Apr-2023 01:28:18 UTC] PHP Warning:  Undefined variable $current_mac in /home/tj6gnl1k9vif/public_html/scanner/index.php on line 19
+[25-Apr-2023 01:28:56 UTC] PHP Warning:  Undefined variable $current_mac in /home/tj6gnl1k9vif/public_html/scanner/index.php on line 19
+[25-Apr-2023 01:33:12 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting ";" in /home/tj6gnl1k9vif/public_html/scanner/index.php on line 57
+[25-Apr-2023 01:33:39 UTC] PHP Warning:  Array to string conversion in /home/tj6gnl1k9vif/public_html/scanner/index.php on line 60
+[25-Apr-2023 01:33:39 UTC] PHP Warning:  Undefined variable $current_mac in /home/tj6gnl1k9vif/public_html/scanner/index.php on line 70
+[25-Apr-2023 01:35:20 UTC] PHP Warning:  Undefined variable $current_mac in /home/tj6gnl1k9vif/public_html/scanner/index.php on line 29
+[25-Apr-2023 01:35:44 UTC] PHP Warning:  Undefined variable $current_mac in /home/tj6gnl1k9vif/public_html/scanner/index.php on line 31
+[25-Apr-2023 01:36:31 UTC] PHP Warning:  Undefined variable $current_mac in /home/tj6gnl1k9vif/public_html/scanner/index.php on line 22
+[25-Apr-2023 01:36:32 UTC] PHP Warning:  Undefined variable $current_mac in /home/tj6gnl1k9vif/public_html/scanner/index.php on line 22
+[25-Apr-2023 01:36:32 UTC] PHP Warning:  Undefined variable $current_mac in /home/tj6gnl1k9vif/public_html/scanner/index.php on line 22
+[25-Apr-2023 01:36:32 UTC] PHP Warning:  Undefined variable $current_mac in /home/tj6gnl1k9vif/public_html/scanner/index.php on line 22
+[25-Apr-2023 01:38:21 UTC] PHP Warning:  Undefined variable $current_mac in /home/tj6gnl1k9vif/public_html/scanner/index.php on line 22
+[25-Apr-2023 01:38:22 UTC] PHP Warning:  Undefined variable $current_mac in /home/tj6gnl1k9vif/public_html/scanner/index.php on line 22
+[25-Apr-2023 01:38:25 UTC] PHP Warning:  Undefined variable $current_mac in /home/tj6gnl1k9vif/public_html/scanner/index.php on line 22
+[04-May-2023 01:56:38 UTC] PHP Parse error:  syntax error, unexpected identifier "access" in /home/tj6gnl1k9vif/public_html/scanner/index.php on line 118
+[04-May-2023 12:05:59 UTC] PHP Parse error:  Unclosed '{' on line 12 in /home/tj6gnl1k9vif/public_html/scanner/index.php on line 132
+[04-May-2023 12:08:05 UTC] PHP Parse error:  Unmatched '}' in /home/tj6gnl1k9vif/public_html/scanner/index.php on line 117

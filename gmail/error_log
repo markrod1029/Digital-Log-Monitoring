@@ -1,0 +1,54 @@
+[26-Feb-2023 15:16:44 UTC] PHP Warning:  require(PHPMailer/class.phpmailer.php): Failed to open stream: No such file or directory in /home/tj6gnl1k9vif/public_html/gmail/send.php on line 2
+[26-Feb-2023 15:16:44 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'PHPMailer/class.phpmailer.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tj6gnl1k9vif/public_html/gmail/send.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/gmail/send.php on line 2
+[26-Feb-2023 15:16:52 UTC] PHP Warning:  require(PHPMailer/class.phpmailer.php): Failed to open stream: No such file or directory in /home/tj6gnl1k9vif/public_html/gmail/send.php on line 2
+[26-Feb-2023 15:16:52 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'PHPMailer/class.phpmailer.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tj6gnl1k9vif/public_html/gmail/send.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/gmail/send.php on line 2
+[26-Feb-2023 15:16:53 UTC] PHP Warning:  require(PHPMailer/class.phpmailer.php): Failed to open stream: No such file or directory in /home/tj6gnl1k9vif/public_html/gmail/send.php on line 2
+[26-Feb-2023 15:16:53 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'PHPMailer/class.phpmailer.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tj6gnl1k9vif/public_html/gmail/send.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/gmail/send.php on line 2
+[26-Feb-2023 15:16:55 UTC] PHP Warning:  require(PHPMailer/class.phpmailer.php): Failed to open stream: No such file or directory in /home/tj6gnl1k9vif/public_html/gmail/send.php on line 2
+[26-Feb-2023 15:16:55 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'PHPMailer/class.phpmailer.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tj6gnl1k9vif/public_html/gmail/send.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/gmail/send.php on line 2
+[26-Feb-2023 15:18:10 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "PHPMailer\PHPMailer\PHPMailer" in /home/tj6gnl1k9vif/public_html/gmail/send.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/gmail/send.php on line 2
+[26-Feb-2023 15:18:11 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "PHPMailer\PHPMailer\PHPMailer" in /home/tj6gnl1k9vif/public_html/gmail/send.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/gmail/send.php on line 2
+[26-Feb-2023 15:18:13 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "PHPMailer\PHPMailer\PHPMailer" in /home/tj6gnl1k9vif/public_html/gmail/send.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/gmail/send.php on line 2
+[26-Feb-2023 15:19:29 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting "," or ";" in /home/tj6gnl1k9vif/public_html/gmail/send.php on line 48
+[26-Feb-2023 15:19:33 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting "," or ";" in /home/tj6gnl1k9vif/public_html/gmail/send.php on line 48
+[26-Feb-2023 15:20:12 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting "," or ";" in /home/tj6gnl1k9vif/public_html/gmail/send.php on line 48
+[26-Feb-2023 15:40:48 UTC] PHP Warning:  include(includes/main_header.php): Failed to open stream: No such file or directory in /home/tj6gnl1k9vif/public_html/gmail/attachment.php on line 10
+[26-Feb-2023 15:40:48 UTC] PHP Warning:  include(): Failed opening 'includes/main_header.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tj6gnl1k9vif/public_html/gmail/attachment.php on line 10
+[26-Feb-2023 15:40:48 UTC] PHP Warning:  include(includes/menu_bar.php): Failed to open stream: No such file or directory in /home/tj6gnl1k9vif/public_html/gmail/attachment.php on line 13
+[26-Feb-2023 15:40:48 UTC] PHP Warning:  include(): Failed opening 'includes/menu_bar.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tj6gnl1k9vif/public_html/gmail/attachment.php on line 13
+[26-Feb-2023 15:41:04 UTC] PHP Warning:  include(includes/main_header.php): Failed to open stream: No such file or directory in /home/tj6gnl1k9vif/public_html/gmail/attachment.php on line 10
+[26-Feb-2023 15:41:04 UTC] PHP Warning:  include(): Failed opening 'includes/main_header.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tj6gnl1k9vif/public_html/gmail/attachment.php on line 10
+[26-Feb-2023 15:41:04 UTC] PHP Warning:  include(includes/menu_bar.php): Failed to open stream: No such file or directory in /home/tj6gnl1k9vif/public_html/gmail/attachment.php on line 13
+[26-Feb-2023 15:41:04 UTC] PHP Warning:  include(): Failed opening 'includes/menu_bar.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tj6gnl1k9vif/public_html/gmail/attachment.php on line 13
+[26-Feb-2023 15:45:32 UTC] PHP Warning:  Undefined array key "name" in /home/tj6gnl1k9vif/public_html/gmail/send.php on line 6
+[26-Feb-2023 15:45:32 UTC] PHP Warning:  Undefined array key "message" in /home/tj6gnl1k9vif/public_html/gmail/send.php on line 8
+[26-Feb-2023 15:45:32 UTC] PHP Warning:  Undefined array key "subject" in /home/tj6gnl1k9vif/public_html/gmail/send.php on line 9
+[26-Feb-2023 15:45:32 UTC] PHP Fatal error:  Uncaught phpmailerException: Message body empty in /home/tj6gnl1k9vif/public_html/gmail/PHPMailer/class.phpmailer.php:600
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/gmail/PHPMailer/class.phpmailer.php(574): PHPMailer->PreSend()
+#1 /home/tj6gnl1k9vif/public_html/gmail/send.php(32): PHPMailer->Send()
+#2 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/gmail/PHPMailer/class.phpmailer.php on line 600
+[26-Feb-2023 15:46:59 UTC] PHP Warning:  Undefined variable $fullname in /home/tj6gnl1k9vif/public_html/gmail/send.php on line 31
+[26-Feb-2023 15:46:59 UTC] PHP Warning:  Undefined variable $reset_token in /home/tj6gnl1k9vif/public_html/gmail/send.php on line 33

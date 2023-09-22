@@ -1,0 +1,716 @@
+[24-Jan-2023 20:04:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/tj6gnl1k9vif/public_html/student/calendar.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/student/calendar.php on line 73
+[25-Jan-2023 05:00:59 Asia/Manila] PHP Notice:  Undefined variable: result1 in /home/tj6gnl1k9vif/public_html/student/attendance.php on line 40
+[25-Jan-2023 05:00:59 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/tj6gnl1k9vif/public_html/student/attendance.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/student/attendance.php on line 40
+[25-Jan-2023 05:01:07 Asia/Manila] PHP Notice:  Undefined variable: result1 in /home/tj6gnl1k9vif/public_html/student/attendance.php on line 40
+[25-Jan-2023 05:01:07 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/tj6gnl1k9vif/public_html/student/attendance.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/student/attendance.php on line 40
+[25-Jan-2023 05:02:56 Asia/Manila] PHP Notice:  Undefined variable: result1 in /home/tj6gnl1k9vif/public_html/student/attendance.php on line 40
+[25-Jan-2023 05:02:56 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/tj6gnl1k9vif/public_html/student/attendance.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/student/attendance.php on line 40
+[25-Jan-2023 01:02:36 UTC] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 18
+[25-Jan-2023 01:02:36 UTC] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 18
+[25-Jan-2023 01:02:36 UTC] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 19
+[25-Jan-2023 09:02:36 Asia/Manila] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/attendance.php on line 32
+[25-Jan-2023 09:02:36 Asia/Manila] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/attendance.php on line 62
+[25-Jan-2023 01:45:00 UTC] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 18
+[25-Jan-2023 01:45:00 UTC] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 18
+[25-Jan-2023 01:45:00 UTC] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 19
+[25-Jan-2023 09:45:00 Asia/Manila] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/attendance.php on line 32
+[25-Jan-2023 09:45:00 Asia/Manila] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/attendance.php on line 62
+[25-Jan-2023 01:45:24 UTC] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 18
+[25-Jan-2023 01:45:24 UTC] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 18
+[25-Jan-2023 01:45:24 UTC] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 19
+[25-Jan-2023 01:45:24 UTC] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 50
+[25-Jan-2023 01:45:24 UTC] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 50
+[25-Jan-2023 01:45:24 UTC] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 57
+[25-Jan-2023 01:45:24 UTC] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 57
+[25-Jan-2023 01:45:24 UTC] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 60
+[25-Jan-2023 01:45:24 UTC] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 60
+[25-Jan-2023 01:45:24 UTC] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 63
+[25-Jan-2023 01:45:24 UTC] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 63
+[25-Jan-2023 01:45:24 UTC] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 63
+[25-Jan-2023 01:45:24 UTC] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 97
+[25-Jan-2023 01:45:24 UTC] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 143
+[25-Jan-2023 01:45:24 UTC] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 153
+[25-Jan-2023 01:45:24 UTC] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 164
+[25-Jan-2023 01:45:24 UTC] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 179
+[25-Jan-2023 01:45:24 UTC] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 199
+[25-Jan-2023 01:45:24 UTC] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 217
+[25-Jan-2023 01:45:24 UTC] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 223
+[25-Jan-2023 01:45:24 UTC] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 269
+[25-Jan-2023 01:45:24 UTC] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 269
+[25-Jan-2023 01:45:24 UTC] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 276
+[25-Jan-2023 01:45:24 UTC] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 276
+[25-Jan-2023 01:45:24 UTC] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 279
+[25-Jan-2023 01:45:24 UTC] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 279
+[25-Jan-2023 01:45:24 UTC] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 282
+[25-Jan-2023 01:45:24 UTC] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 282
+[25-Jan-2023 01:45:24 UTC] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 282
+[25-Jan-2023 01:45:24 UTC] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 314
+[25-Jan-2023 02:01:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/tj6gnl1k9vif/public_html/student/calendar.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/student/calendar.php on line 73
+[25-Jan-2023 02:02:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/tj6gnl1k9vif/public_html/student/calendar.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/student/calendar.php on line 73
+[25-Jan-2023 03:04:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/tj6gnl1k9vif/public_html/student/calendar.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/student/calendar.php on line 73
+[25-Jan-2023 03:57:20 UTC] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 18
+[25-Jan-2023 03:57:20 UTC] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 18
+[25-Jan-2023 03:57:20 UTC] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 19
+[25-Jan-2023 03:57:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/tj6gnl1k9vif/public_html/student/calendar.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/student/calendar.php on line 73
+[25-Jan-2023 03:58:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/tj6gnl1k9vif/public_html/student/calendar.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/student/calendar.php on line 73
+[25-Jan-2023 04:20:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/tj6gnl1k9vif/public_html/student/calendar.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/student/calendar.php on line 73
+[25-Jan-2023 04:26:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/tj6gnl1k9vif/public_html/student/calendar.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/student/calendar.php on line 73
+[25-Jan-2023 05:17:17 UTC] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 18
+[25-Jan-2023 05:17:17 UTC] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 18
+[25-Jan-2023 05:17:17 UTC] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 19
+[25-Jan-2023 13:17:17 Asia/Manila] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/attendance.php on line 32
+[25-Jan-2023 13:17:17 Asia/Manila] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/attendance.php on line 62
+[25-Jan-2023 07:18:33 UTC] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 18
+[25-Jan-2023 07:18:33 UTC] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 18
+[25-Jan-2023 07:18:33 UTC] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 19
+[25-Jan-2023 11:08:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/tj6gnl1k9vif/public_html/student/calendar.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/student/calendar.php on line 73
+[25-Jan-2023 11:08:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/tj6gnl1k9vif/public_html/student/calendar.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/student/calendar.php on line 73
+[25-Jan-2023 11:16:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/tj6gnl1k9vif/public_html/student/calendar.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/student/calendar.php on line 73
+[25-Jan-2023 11:17:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/tj6gnl1k9vif/public_html/student/calendar.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/student/calendar.php on line 73
+[25-Jan-2023 11:19:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/tj6gnl1k9vif/public_html/student/calendar.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/student/calendar.php on line 73
+[25-Jan-2023 11:20:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/tj6gnl1k9vif/public_html/student/calendar.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/student/calendar.php on line 73
+[25-Jan-2023 11:23:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/tj6gnl1k9vif/public_html/student/calendar.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/student/calendar.php on line 73
+[25-Jan-2023 11:24:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/tj6gnl1k9vif/public_html/student/calendar.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/student/calendar.php on line 73
+[25-Jan-2023 11:25:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/tj6gnl1k9vif/public_html/student/calendar.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/student/calendar.php on line 73
+[25-Jan-2023 11:27:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/tj6gnl1k9vif/public_html/student/calendar.php:78
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/student/calendar.php on line 78
+[25-Jan-2023 11:27:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/tj6gnl1k9vif/public_html/student/calendar.php:78
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/student/calendar.php on line 78
+[25-Jan-2023 11:27:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/tj6gnl1k9vif/public_html/student/calendar.php:78
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/student/calendar.php on line 78
+[25-Jan-2023 11:27:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/tj6gnl1k9vif/public_html/student/calendar.php:78
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/student/calendar.php on line 78
+[25-Jan-2023 11:27:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/tj6gnl1k9vif/public_html/student/calendar.php:78
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/student/calendar.php on line 78
+[25-Jan-2023 11:31:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/tj6gnl1k9vif/public_html/student/calendar.php:78
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/student/calendar.php on line 78
+[25-Jan-2023 11:33:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/tj6gnl1k9vif/public_html/student/calendar.php:80
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/student/calendar.php on line 80
+[25-Jan-2023 11:33:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/tj6gnl1k9vif/public_html/student/calendar.php:80
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/student/calendar.php on line 80
+[25-Jan-2023 11:34:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/tj6gnl1k9vif/public_html/student/calendar.php:80
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/student/calendar.php on line 80
+[25-Jan-2023 11:35:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/tj6gnl1k9vif/public_html/student/calendar.php:80
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/student/calendar.php on line 80
+[25-Jan-2023 11:36:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/tj6gnl1k9vif/public_html/student/calendar.php:80
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/student/calendar.php on line 80
+[25-Jan-2023 11:36:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/tj6gnl1k9vif/public_html/student/calendar.php:80
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/student/calendar.php on line 80
+[25-Jan-2023 11:37:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/tj6gnl1k9vif/public_html/student/calendar.php:80
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/student/calendar.php on line 80
+[25-Jan-2023 11:39:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/tj6gnl1k9vif/public_html/student/calendar.php:80
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/student/calendar.php on line 80
+[25-Jan-2023 11:39:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/tj6gnl1k9vif/public_html/student/calendar.php:80
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/student/calendar.php on line 80
+[25-Jan-2023 11:39:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/tj6gnl1k9vif/public_html/student/calendar.php:80
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/student/calendar.php on line 80
+[25-Jan-2023 11:41:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/tj6gnl1k9vif/public_html/student/calendar.php:80
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/student/calendar.php on line 80
+[25-Jan-2023 11:41:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/tj6gnl1k9vif/public_html/student/calendar.php:80
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/student/calendar.php on line 80
+[25-Jan-2023 11:41:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/tj6gnl1k9vif/public_html/student/calendar.php:80
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/student/calendar.php on line 80
+[25-Jan-2023 11:42:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/tj6gnl1k9vif/public_html/student/calendar.php:80
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/student/calendar.php on line 80
+[25-Jan-2023 11:42:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/tj6gnl1k9vif/public_html/student/calendar.php:80
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/student/calendar.php on line 80
+[25-Jan-2023 11:43:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/tj6gnl1k9vif/public_html/student/calendar.php:80
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/student/calendar.php on line 80
+[25-Jan-2023 11:43:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/tj6gnl1k9vif/public_html/student/calendar.php:80
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/student/calendar.php on line 80
+[25-Jan-2023 11:43:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/tj6gnl1k9vif/public_html/student/calendar.php:80
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/student/calendar.php on line 80
+[25-Jan-2023 11:44:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/tj6gnl1k9vif/public_html/student/calendar.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/student/calendar.php on line 51
+[25-Jan-2023 11:46:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/tj6gnl1k9vif/public_html/student/calendar.php:80
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/student/calendar.php on line 80
+[25-Jan-2023 11:53:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/tj6gnl1k9vif/public_html/student/calendar.php:80
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/student/calendar.php on line 80
+[25-Jan-2023 11:54:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/tj6gnl1k9vif/public_html/student/calendar.php:78
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/student/calendar.php on line 78
+[25-Jan-2023 12:04:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/tj6gnl1k9vif/public_html/student/calendar.php:78
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/student/calendar.php on line 78
+[25-Jan-2023 12:07:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/tj6gnl1k9vif/public_html/student/calendar.php:78
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/student/calendar.php on line 78
+[25-Jan-2023 12:08:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/tj6gnl1k9vif/public_html/student/calendar.php:78
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/student/calendar.php on line 78
+[25-Jan-2023 12:08:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/tj6gnl1k9vif/public_html/student/calendar.php:78
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/student/calendar.php on line 78
+[25-Jan-2023 12:51:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/tj6gnl1k9vif/public_html/student/calendar.php:78
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/student/calendar.php on line 78
+[25-Jan-2023 13:03:30 UTC] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 18
+[25-Jan-2023 13:03:30 UTC] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 18
+[25-Jan-2023 13:03:30 UTC] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 19
+[25-Jan-2023 13:03:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/tj6gnl1k9vif/public_html/student/calendar.php:78
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/student/calendar.php on line 78
+[25-Jan-2023 13:49:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/tj6gnl1k9vif/public_html/student/calendar.php:78
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/student/calendar.php on line 78
+[25-Jan-2023 22:24:20 UTC] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 18
+[25-Jan-2023 22:24:20 UTC] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 18
+[25-Jan-2023 22:24:21 UTC] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 19
+[25-Jan-2023 22:24:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/tj6gnl1k9vif/public_html/student/calendar.php:78
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/student/calendar.php on line 78
+[25-Jan-2023 22:26:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/tj6gnl1k9vif/public_html/student/calendar.php:78
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/student/calendar.php on line 78
+[25-Jan-2023 22:31:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/tj6gnl1k9vif/public_html/student/calendar.php:79
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/student/calendar.php on line 79
+[25-Jan-2023 22:31:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/tj6gnl1k9vif/public_html/student/calendar.php:79
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/student/calendar.php on line 79
+[25-Jan-2023 22:33:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/tj6gnl1k9vif/public_html/student/calendar.php:79
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/student/calendar.php on line 79
+[25-Jan-2023 22:36:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/tj6gnl1k9vif/public_html/student/calendar.php:79
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/student/calendar.php on line 79
+[25-Jan-2023 22:42:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/tj6gnl1k9vif/public_html/student/calendar.php:84
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/student/calendar.php on line 84
+[25-Jan-2023 22:43:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/tj6gnl1k9vif/public_html/student/calendar.php:84
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/student/calendar.php on line 84
+[25-Jan-2023 22:53:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/tj6gnl1k9vif/public_html/student/calendar.php:84
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/student/calendar.php on line 84
+[26-Jan-2023 00:59:16 UTC] PHP Notice:  Undefined variable: teacher1 in /home/tj6gnl1k9vif/public_html/student/chart/pie_bar.php on line 39
+[26-Jan-2023 00:59:49 UTC] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 18
+[26-Jan-2023 00:59:49 UTC] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 18
+[26-Jan-2023 00:59:49 UTC] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 19
+[26-Jan-2023 00:59:49 UTC] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 50
+[26-Jan-2023 00:59:49 UTC] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 50
+[26-Jan-2023 00:59:49 UTC] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 57
+[26-Jan-2023 00:59:49 UTC] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 57
+[26-Jan-2023 00:59:49 UTC] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 60
+[26-Jan-2023 00:59:49 UTC] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 60
+[26-Jan-2023 00:59:49 UTC] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 63
+[26-Jan-2023 00:59:49 UTC] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 63
+[26-Jan-2023 00:59:49 UTC] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 63
+[26-Jan-2023 00:59:49 UTC] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 97
+[26-Jan-2023 00:59:49 UTC] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 143
+[26-Jan-2023 00:59:49 UTC] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 153
+[26-Jan-2023 00:59:49 UTC] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 164
+[26-Jan-2023 00:59:49 UTC] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 179
+[26-Jan-2023 00:59:49 UTC] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 199
+[26-Jan-2023 00:59:49 UTC] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 217
+[26-Jan-2023 00:59:49 UTC] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 223
+[26-Jan-2023 00:59:49 UTC] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 269
+[26-Jan-2023 00:59:49 UTC] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 269
+[26-Jan-2023 00:59:49 UTC] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 276
+[26-Jan-2023 00:59:49 UTC] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 276
+[26-Jan-2023 00:59:49 UTC] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 279
+[26-Jan-2023 00:59:49 UTC] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 279
+[26-Jan-2023 00:59:49 UTC] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 282
+[26-Jan-2023 00:59:49 UTC] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 282
+[26-Jan-2023 00:59:49 UTC] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 282
+[26-Jan-2023 00:59:49 UTC] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 314
+[26-Jan-2023 01:00:10 UTC] PHP Notice:  Undefined variable: teacher1 in /home/tj6gnl1k9vif/public_html/student/chart/pie_bar.php on line 39
+[26-Jan-2023 01:00:47 UTC] PHP Notice:  Undefined variable: teacher1 in /home/tj6gnl1k9vif/public_html/student/chart/pie_bar.php on line 39
+[26-Jan-2023 01:01:56 UTC] PHP Notice:  Undefined variable: teacher1 in /home/tj6gnl1k9vif/public_html/student/chart/pie_bar.php on line 39
+[26-Jan-2023 01:09:28 UTC] PHP Notice:  Undefined variable: teacher1 in /home/tj6gnl1k9vif/public_html/student/chart/pie_bar.php on line 39
+[26-Jan-2023 01:09:41 UTC] PHP Notice:  Undefined variable: teacher1 in /home/tj6gnl1k9vif/public_html/student/chart/pie_bar.php on line 39
+[26-Jan-2023 01:09:48 UTC] PHP Notice:  Undefined variable: teacher1 in /home/tj6gnl1k9vif/public_html/student/chart/pie_bar.php on line 39
+[26-Jan-2023 01:09:59 UTC] PHP Notice:  Undefined variable: teacher1 in /home/tj6gnl1k9vif/public_html/student/chart/pie_bar.php on line 39
+[26-Jan-2023 10:31:44 Asia/Manila] PHP Warning:  Use of undefined constant user - assumed 'user' (this will throw an Error in a future version of PHP) in /home/tj6gnl1k9vif/public_html/student/attendance.php on line 63
+[26-Jan-2023 10:31:44 Asia/Manila] PHP Warning:  Illegal string offset 'student_id' in /home/tj6gnl1k9vif/public_html/student/attendance.php on line 63
+[26-Jan-2023 10:33:12 Asia/Manila] PHP Notice:  Undefined index: qr_code in /home/tj6gnl1k9vif/public_html/student/attendance.php on line 63
+[26-Jan-2023 10:33:47 Asia/Manila] PHP Notice:  Undefined index: qr_code in /home/tj6gnl1k9vif/public_html/student/attendance.php on line 63
+[26-Jan-2023 02:53:07 UTC] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 18
+[26-Jan-2023 02:53:07 UTC] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 18
+[26-Jan-2023 02:53:07 UTC] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 19
+[26-Jan-2023 02:53:24 UTC] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 18
+[26-Jan-2023 02:53:24 UTC] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 18
+[26-Jan-2023 02:53:24 UTC] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 19
+[26-Jan-2023 10:53:24 Asia/Manila] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/attendance.php on line 32
+[26-Jan-2023 10:53:24 Asia/Manila] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/attendance.php on line 62
+[26-Jan-2023 10:53:24 Asia/Manila] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/attendance.php on line 63
+[29-Jan-2023 16:35:36 UTC] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 18
+[29-Jan-2023 16:35:36 UTC] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 18
+[29-Jan-2023 16:35:36 UTC] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 19
+[30-Jan-2023 00:35:36 Asia/Manila] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/attendance.php on line 32
+[30-Jan-2023 00:35:36 Asia/Manila] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/attendance.php on line 62
+[30-Jan-2023 00:35:36 Asia/Manila] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/student/attendance.php on line 63
+[07-Feb-2023 01:28:09 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 18
+[07-Feb-2023 01:28:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 18
+[07-Feb-2023 01:28:09 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 18
+[07-Feb-2023 01:28:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 18
+[07-Feb-2023 01:28:09 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 19
+[07-Feb-2023 01:28:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 19
+[12-Feb-2023 16:43:05 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 18
+[12-Feb-2023 16:43:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 18
+[12-Feb-2023 16:43:05 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 18
+[12-Feb-2023 16:43:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 18
+[12-Feb-2023 16:43:05 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 19
+[12-Feb-2023 16:43:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 19
+[12-Feb-2023 16:43:05 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 50
+[12-Feb-2023 16:43:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 50
+[12-Feb-2023 16:43:05 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 50
+[12-Feb-2023 16:43:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 50
+[12-Feb-2023 16:43:05 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 57
+[12-Feb-2023 16:43:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 57
+[12-Feb-2023 16:43:05 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 57
+[12-Feb-2023 16:43:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 57
+[12-Feb-2023 16:43:06 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 60
+[12-Feb-2023 16:43:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 60
+[12-Feb-2023 16:43:06 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 60
+[12-Feb-2023 16:43:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 60
+[12-Feb-2023 16:43:06 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 63
+[12-Feb-2023 16:43:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 63
+[12-Feb-2023 16:43:06 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 63
+[12-Feb-2023 16:43:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 63
+[12-Feb-2023 16:43:06 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 63
+[12-Feb-2023 16:43:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 63
+[12-Feb-2023 16:43:06 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 97
+[12-Feb-2023 16:43:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 97
+[12-Feb-2023 16:43:06 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 143
+[12-Feb-2023 16:43:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 143
+[12-Feb-2023 16:43:06 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 153
+[12-Feb-2023 16:43:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 153
+[12-Feb-2023 16:43:06 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 164
+[12-Feb-2023 16:43:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 164
+[12-Feb-2023 16:43:06 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 179
+[12-Feb-2023 16:43:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 179
+[12-Feb-2023 16:43:06 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 199
+[12-Feb-2023 16:43:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 199
+[12-Feb-2023 16:43:06 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 217
+[12-Feb-2023 16:43:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 217
+[12-Feb-2023 16:43:06 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 223
+[12-Feb-2023 16:43:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 223
+[12-Feb-2023 16:43:06 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 269
+[12-Feb-2023 16:43:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 269
+[12-Feb-2023 16:43:06 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 269
+[12-Feb-2023 16:43:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 269
+[12-Feb-2023 16:43:06 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 276
+[12-Feb-2023 16:43:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 276
+[12-Feb-2023 16:43:06 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 276
+[12-Feb-2023 16:43:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 276
+[12-Feb-2023 16:43:06 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 279
+[12-Feb-2023 16:43:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 279
+[12-Feb-2023 16:43:06 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 279
+[12-Feb-2023 16:43:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 279
+[12-Feb-2023 16:43:06 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 282
+[12-Feb-2023 16:43:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 282
+[12-Feb-2023 16:43:06 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 282
+[12-Feb-2023 16:43:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 282
+[12-Feb-2023 16:43:06 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 282
+[12-Feb-2023 16:43:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 282
+[12-Feb-2023 16:43:06 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 314
+[12-Feb-2023 16:43:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 314
+[17-Feb-2023 04:56:53 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 18
+[17-Feb-2023 04:56:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 18
+[17-Feb-2023 04:56:53 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 18
+[17-Feb-2023 04:56:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 18
+[17-Feb-2023 04:56:53 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 19
+[17-Feb-2023 04:56:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 19
+[17-Feb-2023 04:56:53 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 50
+[17-Feb-2023 04:56:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 50
+[17-Feb-2023 04:56:53 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 50
+[17-Feb-2023 04:56:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 50
+[17-Feb-2023 04:56:53 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 57
+[17-Feb-2023 04:56:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 57
+[17-Feb-2023 04:56:53 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 57
+[17-Feb-2023 04:56:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 57
+[17-Feb-2023 04:56:53 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 60
+[17-Feb-2023 04:56:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 60
+[17-Feb-2023 04:56:53 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 60
+[17-Feb-2023 04:56:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 60
+[17-Feb-2023 04:56:53 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 63
+[17-Feb-2023 04:56:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 63
+[17-Feb-2023 04:56:53 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 63
+[17-Feb-2023 04:56:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 63
+[17-Feb-2023 04:56:53 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 63
+[17-Feb-2023 04:56:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 63
+[17-Feb-2023 04:56:53 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 97
+[17-Feb-2023 04:56:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 97
+[17-Feb-2023 04:56:53 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 143
+[17-Feb-2023 04:56:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 143
+[17-Feb-2023 04:56:53 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 153
+[17-Feb-2023 04:56:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 153
+[17-Feb-2023 04:56:53 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 164
+[17-Feb-2023 04:56:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 164
+[17-Feb-2023 04:56:53 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 179
+[17-Feb-2023 04:56:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 179
+[17-Feb-2023 04:56:53 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 199
+[17-Feb-2023 04:56:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 199
+[17-Feb-2023 04:56:53 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 217
+[17-Feb-2023 04:56:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 217
+[17-Feb-2023 04:56:53 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 223
+[17-Feb-2023 04:56:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 223
+[17-Feb-2023 04:56:53 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 269
+[17-Feb-2023 04:56:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 269
+[17-Feb-2023 04:56:53 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 269
+[17-Feb-2023 04:56:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 269
+[17-Feb-2023 04:56:53 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 276
+[17-Feb-2023 04:56:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 276
+[17-Feb-2023 04:56:53 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 276
+[17-Feb-2023 04:56:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 276
+[17-Feb-2023 04:56:53 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 279
+[17-Feb-2023 04:56:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 279
+[17-Feb-2023 04:56:53 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 279
+[17-Feb-2023 04:56:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 279
+[17-Feb-2023 04:56:53 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 282
+[17-Feb-2023 04:56:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 282
+[17-Feb-2023 04:56:53 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 282
+[17-Feb-2023 04:56:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 282
+[17-Feb-2023 04:56:53 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 282
+[17-Feb-2023 04:56:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 282
+[17-Feb-2023 04:56:53 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 314
+[17-Feb-2023 04:56:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/my_profile.php on line 314
+[20-Feb-2023 13:50:07 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 18
+[20-Feb-2023 13:50:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 18
+[20-Feb-2023 13:50:07 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 18
+[20-Feb-2023 13:50:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 18
+[20-Feb-2023 13:50:07 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 19
+[20-Feb-2023 13:50:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 19
+[20-Feb-2023 13:50:07 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/student/morning_report.php on line 49
+[20-Feb-2023 13:50:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/morning_report.php on line 49
+[05-Mar-2023 09:54:39 UTC] PHP Parse error:  syntax error, unexpected single-quoted string " - ", expecting ")" in /home/tj6gnl1k9vif/public_html/student/announcement.php on line 61
+[05-Mar-2023 09:54:50 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting ")" in /home/tj6gnl1k9vif/public_html/student/announcement.php on line 61
+[05-Mar-2023 09:54:53 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting ")" in /home/tj6gnl1k9vif/public_html/student/announcement.php on line 61
+[05-Mar-2023 12:53:34 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 18
+[05-Mar-2023 12:53:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 18
+[05-Mar-2023 12:53:34 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 18
+[05-Mar-2023 12:53:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 18
+[05-Mar-2023 12:53:34 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 19
+[05-Mar-2023 12:53:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 19
+[19-Apr-2023 04:21:12 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 18
+[19-Apr-2023 04:21:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 18
+[19-Apr-2023 04:21:12 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 18
+[19-Apr-2023 04:21:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 18
+[19-Apr-2023 04:21:12 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 19
+[19-Apr-2023 04:21:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 19
+[19-Apr-2023 05:24:49 UTC] PHP Warning:  Undefined variable $teacher1 in /home/tj6gnl1k9vif/public_html/student/chart/pie_bar.php on line 39
+[19-Apr-2023 05:25:42 UTC] PHP Warning:  Undefined variable $teacher1 in /home/tj6gnl1k9vif/public_html/student/chart/pie_bar.php on line 39
+[19-Apr-2023 05:25:57 UTC] PHP Warning:  Undefined variable $teacher1 in /home/tj6gnl1k9vif/public_html/student/chart/pie_bar.php on line 39
+[19-Apr-2023 05:25:57 UTC] PHP Warning:  Undefined variable $teacher1 in /home/tj6gnl1k9vif/public_html/student/chart/pie_bar.php on line 39
+[19-Apr-2023 05:25:57 UTC] PHP Warning:  Undefined variable $teacher1 in /home/tj6gnl1k9vif/public_html/student/chart/pie_bar.php on line 39
+[19-Apr-2023 05:25:58 UTC] PHP Warning:  Undefined variable $teacher1 in /home/tj6gnl1k9vif/public_html/student/chart/pie_bar.php on line 39
+[19-Apr-2023 05:25:58 UTC] PHP Warning:  Undefined variable $teacher1 in /home/tj6gnl1k9vif/public_html/student/chart/pie_bar.php on line 39
+[19-Apr-2023 05:25:58 UTC] PHP Warning:  Undefined variable $teacher1 in /home/tj6gnl1k9vif/public_html/student/chart/pie_bar.php on line 39
+[19-Apr-2023 05:25:58 UTC] PHP Warning:  Undefined variable $teacher1 in /home/tj6gnl1k9vif/public_html/student/chart/pie_bar.php on line 39
+[19-Apr-2023 05:25:59 UTC] PHP Warning:  Undefined variable $teacher1 in /home/tj6gnl1k9vif/public_html/student/chart/pie_bar.php on line 39
+[19-Apr-2023 05:26:07 UTC] PHP Warning:  Undefined variable $teacher1 in /home/tj6gnl1k9vif/public_html/student/chart/pie_bar.php on line 39
+[19-Apr-2023 05:26:11 UTC] PHP Warning:  Undefined variable $teacher1 in /home/tj6gnl1k9vif/public_html/student/chart/pie_bar.php on line 39
+[19-Apr-2023 05:26:11 UTC] PHP Warning:  Undefined variable $teacher1 in /home/tj6gnl1k9vif/public_html/student/chart/pie_bar.php on line 39
+[19-Apr-2023 05:26:11 UTC] PHP Warning:  Undefined variable $teacher1 in /home/tj6gnl1k9vif/public_html/student/chart/pie_bar.php on line 39
+[19-Apr-2023 05:26:36 UTC] PHP Warning:  Undefined variable $teacher1 in /home/tj6gnl1k9vif/public_html/student/chart/pie_bar.php on line 39
+[19-Apr-2023 05:27:23 UTC] PHP Warning:  Undefined variable $teacher1 in /home/tj6gnl1k9vif/public_html/student/chart/pie_bar.php on line 39
+[19-Apr-2023 05:31:43 UTC] PHP Warning:  Undefined variable $teacher1 in /home/tj6gnl1k9vif/public_html/student/chart/pie_bar.php on line 39
+[19-Apr-2023 05:46:37 UTC] PHP Warning:  Undefined variable $teacher1 in /home/tj6gnl1k9vif/public_html/student/chart/pie_bar.php on line 39
+[19-Apr-2023 06:02:33 UTC] PHP Warning:  Undefined variable $teacher1 in /home/tj6gnl1k9vif/public_html/student/chart/pie_bar.php on line 39
+[19-Apr-2023 06:02:35 UTC] PHP Warning:  Undefined variable $teacher1 in /home/tj6gnl1k9vif/public_html/student/chart/pie_bar.php on line 39
+[19-Apr-2023 06:03:00 UTC] PHP Warning:  Undefined variable $teacher1 in /home/tj6gnl1k9vif/public_html/student/chart/pie_bar.php on line 39
+[20-May-2023 02:07:51 UTC] PHP Warning:  Undefined variable $teacher1 in /home/tj6gnl1k9vif/public_html/student/chart/pie_bar.php on line 39
+[20-May-2023 02:09:42 UTC] PHP Warning:  Undefined variable $teacher1 in /home/tj6gnl1k9vif/public_html/student/chart/pie_bar.php on line 39
+[22-May-2023 10:34:52 UTC] PHP Warning:  Undefined variable $teacher1 in /home/tj6gnl1k9vif/public_html/student/chart/pie_bar.php on line 39
+[22-May-2023 10:37:29 UTC] PHP Warning:  Undefined variable $teacher1 in /home/tj6gnl1k9vif/public_html/student/chart/pie_bar.php on line 39
+[25-May-2023 08:22:59 UTC] PHP Warning:  Undefined variable $teacher1 in /home/tj6gnl1k9vif/public_html/student/chart/pie_bar.php on line 39
+[25-May-2023 08:26:34 UTC] PHP Warning:  Undefined variable $teacher1 in /home/tj6gnl1k9vif/public_html/student/chart/pie_bar.php on line 39
+[25-May-2023 08:30:10 UTC] PHP Warning:  Undefined variable $teacher1 in /home/tj6gnl1k9vif/public_html/student/chart/pie_bar.php on line 39
+[25-May-2023 08:37:53 UTC] PHP Warning:  Undefined variable $teacher1 in /home/tj6gnl1k9vif/public_html/student/chart/pie_bar.php on line 39
+[16-Aug-2023 08:10:00 UTC] PHP Warning:  Undefined variable $teacher1 in /home/tj6gnl1k9vif/public_html/student/chart/pie_bar.php on line 39
+[16-Aug-2023 08:22:11 UTC] PHP Warning:  Undefined variable $row in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 08:22:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 08:22:26 UTC] PHP Warning:  Undefined variable $row in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 08:22:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 08:22:33 UTC] PHP Warning:  Undefined variable $row in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 08:22:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 08:22:56 UTC] PHP Warning:  Undefined variable $row in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 08:22:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 08:22:56 UTC] PHP Warning:  Undefined variable $teacher1 in /home/tj6gnl1k9vif/public_html/student/chart/pie_bar.php on line 39
+[16-Aug-2023 08:23:09 UTC] PHP Warning:  Undefined variable $row in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 08:23:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 08:23:09 UTC] PHP Warning:  Undefined variable $teacher1 in /home/tj6gnl1k9vif/public_html/student/chart/pie_bar.php on line 39
+[16-Aug-2023 08:23:28 UTC] PHP Warning:  Undefined variable $row in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 08:23:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 08:26:20 UTC] PHP Warning:  Undefined variable $row in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 08:26:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 08:26:28 UTC] PHP Warning:  Undefined variable $row in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 08:26:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 08:27:01 UTC] PHP Warning:  Undefined variable $row in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 08:27:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 08:27:23 UTC] PHP Warning:  Undefined variable $row in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 08:27:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 08:28:07 UTC] PHP Warning:  Undefined variable $row in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 08:28:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 08:28:22 UTC] PHP Warning:  Undefined variable $row in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 08:28:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 08:30:22 UTC] PHP Warning:  Undefined variable $row in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 08:30:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 08:53:37 UTC] PHP Warning:  Undefined variable $row in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 08:53:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 08:54:16 UTC] PHP Warning:  Undefined variable $row in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 08:54:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 08:55:03 UTC] PHP Warning:  Undefined variable $row in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 08:55:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 08:55:23 UTC] PHP Warning:  Undefined variable $row in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 08:55:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 08:55:44 UTC] PHP Warning:  Undefined variable $row in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 08:55:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 08:56:19 UTC] PHP Warning:  Undefined variable $row in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 08:56:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 08:56:33 UTC] PHP Warning:  Undefined variable $row in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 08:56:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 08:59:10 UTC] PHP Warning:  Undefined variable $row in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 08:59:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 08:59:20 UTC] PHP Warning:  Undefined variable $row in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 08:59:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 08:59:25 UTC] PHP Warning:  Undefined variable $row in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 08:59:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:00:21 UTC] PHP Warning:  Undefined variable $row in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:00:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:00:26 UTC] PHP Warning:  Undefined variable $row in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:00:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:00:37 UTC] PHP Warning:  Undefined variable $row in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:00:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:00:49 UTC] PHP Warning:  Undefined variable $row in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:00:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:00:54 UTC] PHP Warning:  Undefined variable $row in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:00:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:01:24 UTC] PHP Warning:  Undefined variable $row in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:01:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:01:58 UTC] PHP Warning:  Undefined variable $row in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:01:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:12:26 UTC] PHP Warning:  Undefined variable $row in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:12:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:16:09 UTC] PHP Warning:  Undefined variable $row in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:16:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:16:25 UTC] PHP Warning:  Undefined variable $row in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:16:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:25:41 UTC] PHP Warning:  Undefined variable $row in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:25:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:25:45 UTC] PHP Warning:  Undefined variable $row in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:25:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:26:52 UTC] PHP Warning:  Undefined variable $row in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:26:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:26:56 UTC] PHP Warning:  Undefined variable $row in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:26:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:28:25 UTC] PHP Warning:  Undefined variable $row in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:28:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:28:50 UTC] PHP Warning:  Undefined variable $row in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:28:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:28:55 UTC] PHP Warning:  Undefined variable $row in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:28:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:29:04 UTC] PHP Warning:  Undefined variable $row in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:29:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:29:17 UTC] PHP Warning:  Undefined variable $row in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:29:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:29:27 UTC] PHP Warning:  Undefined variable $row in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:29:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:29:43 UTC] PHP Warning:  Undefined variable $row in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:29:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:31:07 UTC] PHP Warning:  Undefined variable $row in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:31:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:31:17 UTC] PHP Warning:  Undefined variable $row in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:31:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:31:53 UTC] PHP Warning:  Undefined variable $row in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:31:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:31:59 UTC] PHP Warning:  Undefined variable $row in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:31:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:32:19 UTC] PHP Warning:  Undefined variable $row in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:32:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:32:21 UTC] PHP Warning:  Undefined variable $row in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:32:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:32:58 UTC] PHP Warning:  Undefined variable $row in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:32:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:34:18 UTC] PHP Warning:  Undefined variable $row in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:34:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:34:22 UTC] PHP Warning:  Undefined variable $row in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:34:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:34:38 UTC] PHP Warning:  Undefined variable $row in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:34:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:34:43 UTC] PHP Warning:  Undefined variable $row in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:34:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:35:52 UTC] PHP Warning:  Undefined variable $row in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:35:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:35:56 UTC] PHP Warning:  Undefined variable $row in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:35:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:42:11 UTC] PHP Warning:  Undefined variable $row in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:42:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:42:17 UTC] PHP Warning:  Undefined variable $row in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:42:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:42:37 UTC] PHP Warning:  Undefined variable $row in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:42:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:42:56 UTC] PHP Warning:  Undefined variable $row in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:42:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:43:01 UTC] PHP Warning:  Undefined variable $row in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:43:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:44:00 UTC] PHP Warning:  Undefined variable $row in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:44:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:44:08 UTC] PHP Warning:  Undefined variable $row in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:44:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:45:09 UTC] PHP Warning:  Undefined variable $row in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:45:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:45:13 UTC] PHP Warning:  Undefined variable $row in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:45:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:49:40 UTC] PHP Warning:  Undefined variable $row in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:49:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:49:45 UTC] PHP Warning:  Undefined variable $row in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:49:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:49:51 UTC] PHP Warning:  Undefined variable $row in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:49:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:50:05 UTC] PHP Warning:  Undefined variable $row in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:50:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:50:31 UTC] PHP Warning:  Undefined variable $row in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:50:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:53:05 UTC] PHP Warning:  Undefined variable $row in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:53:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:53:27 UTC] PHP Warning:  Undefined variable $row in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:53:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:53:42 UTC] PHP Warning:  Undefined variable $row in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:53:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:54:12 UTC] PHP Warning:  Undefined variable $row in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:54:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:54:22 UTC] PHP Warning:  Undefined variable $row in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:54:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:54:32 UTC] PHP Warning:  Undefined variable $row in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:54:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:54:38 UTC] PHP Warning:  Undefined variable $row in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:54:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:54:45 UTC] PHP Warning:  Undefined variable $row in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:54:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:57:19 UTC] PHP Warning:  Undefined variable $row in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:57:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:59:55 UTC] PHP Warning:  Undefined variable $row in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16
+[16-Aug-2023 09:59:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/student/includes/main_sidebar.php on line 16

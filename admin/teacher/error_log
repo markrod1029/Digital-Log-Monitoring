@@ -1,0 +1,178 @@
+[26-Jan-2023 07:09:37 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_morning_daily.php on line 172
+[26-Jan-2023 07:09:37 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_morning_daily.php on line 172
+[26-Jan-2023 07:09:37 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_morning_daily.php on line 172
+[26-Jan-2023 07:09:37 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_morning_daily.php on line 172
+[26-Jan-2023 07:09:37 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_morning_daily.php on line 172
+[26-Jan-2023 07:09:37 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_morning_daily.php on line 172
+[26-Jan-2023 07:09:37 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_morning_daily.php on line 172
+[26-Jan-2023 07:09:37 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_morning_daily.php on line 172
+[26-Jan-2023 07:09:37 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_morning_daily.php on line 172
+[26-Jan-2023 07:09:37 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_morning_daily.php on line 172
+[26-Jan-2023 07:09:37 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_morning_daily.php on line 172
+[26-Jan-2023 07:09:37 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_morning_daily.php on line 172
+[25-Jan-2023 23:09:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/tj6gnl1k9vif/public_html/admin/teacher/calendar.php:99
+Stack trace:
+#0 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/admin/teacher/calendar.php on line 99
+[26-Jan-2023 07:10:19 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_morning_daily.php on line 172
+[26-Jan-2023 07:10:19 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_morning_daily.php on line 172
+[26-Jan-2023 07:10:19 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_morning_daily.php on line 172
+[26-Jan-2023 07:10:19 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_morning_daily.php on line 172
+[26-Jan-2023 07:10:19 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_morning_daily.php on line 172
+[26-Jan-2023 07:10:19 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_morning_daily.php on line 172
+[26-Jan-2023 07:10:19 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_morning_daily.php on line 172
+[26-Jan-2023 07:10:19 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_morning_daily.php on line 172
+[26-Jan-2023 07:10:19 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_morning_daily.php on line 172
+[26-Jan-2023 07:10:19 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_morning_daily.php on line 172
+[26-Jan-2023 07:10:19 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_morning_daily.php on line 172
+[26-Jan-2023 07:10:19 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_morning_daily.php on line 172
+[26-Jan-2023 09:40:53 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_morning_daily.php on line 172
+[26-Jan-2023 09:40:53 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_morning_daily.php on line 172
+[26-Jan-2023 09:40:53 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_morning_daily.php on line 172
+[26-Jan-2023 09:40:53 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_morning_daily.php on line 172
+[26-Jan-2023 09:40:53 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_morning_daily.php on line 172
+[26-Jan-2023 09:40:53 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_morning_daily.php on line 172
+[26-Jan-2023 09:40:53 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_morning_daily.php on line 172
+[26-Jan-2023 09:40:53 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_morning_daily.php on line 172
+[26-Jan-2023 09:40:53 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_morning_daily.php on line 172
+[26-Jan-2023 09:40:53 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_morning_daily.php on line 172
+[26-Jan-2023 09:40:53 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_morning_daily.php on line 172
+[26-Jan-2023 09:40:53 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_morning_daily.php on line 172
+[26-Jan-2023 09:41:01 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_afternoon_daily.php on line 174
+[26-Jan-2023 09:41:01 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_afternoon_daily.php on line 174
+[26-Jan-2023 09:41:01 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_afternoon_daily.php on line 174
+[26-Jan-2023 09:41:01 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_afternoon_daily.php on line 174
+[26-Jan-2023 09:41:01 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_afternoon_daily.php on line 174
+[26-Jan-2023 09:41:01 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_afternoon_daily.php on line 174
+[26-Jan-2023 09:41:01 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_afternoon_daily.php on line 174
+[26-Jan-2023 09:41:01 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_afternoon_daily.php on line 174
+[26-Jan-2023 09:41:01 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_afternoon_daily.php on line 174
+[26-Jan-2023 09:41:01 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_afternoon_daily.php on line 174
+[26-Jan-2023 09:41:01 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_afternoon_daily.php on line 174
+[26-Jan-2023 09:41:01 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_afternoon_daily.php on line 174
+[26-Jan-2023 09:41:08 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/junior_morning_daily.php on line 164
+[26-Jan-2023 09:41:08 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/junior_morning_daily.php on line 164
+[26-Jan-2023 09:41:08 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/junior_morning_daily.php on line 164
+[26-Jan-2023 09:41:08 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/junior_morning_daily.php on line 164
+[26-Jan-2023 09:41:08 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/junior_morning_daily.php on line 164
+[26-Jan-2023 09:41:08 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/junior_morning_daily.php on line 164
+[26-Jan-2023 09:41:08 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/junior_morning_daily.php on line 164
+[26-Jan-2023 09:41:08 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/junior_morning_daily.php on line 164
+[26-Jan-2023 09:41:08 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/junior_morning_daily.php on line 164
+[26-Jan-2023 09:41:08 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/junior_morning_daily.php on line 164
+[26-Jan-2023 09:41:08 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/junior_morning_daily.php on line 164
+[26-Jan-2023 09:41:08 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/junior_morning_daily.php on line 164
+[26-Jan-2023 10:27:03 Asia/Manila] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/admin/teacher/includes/main_sidebar.php on line 18
+[26-Jan-2023 10:27:03 Asia/Manila] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/admin/teacher/includes/main_sidebar.php on line 18
+[26-Jan-2023 10:27:03 Asia/Manila] PHP Notice:  Undefined variable: user in /home/tj6gnl1k9vif/public_html/admin/teacher/includes/main_sidebar.php on line 19
+[26-Jan-2023 10:27:03 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_afternoon_daily.php on line 174
+[26-Jan-2023 10:27:03 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_afternoon_daily.php on line 174
+[26-Jan-2023 10:27:03 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_afternoon_daily.php on line 174
+[26-Jan-2023 10:27:03 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_afternoon_daily.php on line 174
+[26-Jan-2023 10:27:03 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_afternoon_daily.php on line 174
+[26-Jan-2023 10:27:03 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_afternoon_daily.php on line 174
+[26-Jan-2023 10:27:03 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_afternoon_daily.php on line 174
+[26-Jan-2023 10:27:03 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_afternoon_daily.php on line 174
+[26-Jan-2023 10:27:03 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_afternoon_daily.php on line 174
+[26-Jan-2023 10:27:03 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_afternoon_daily.php on line 174
+[26-Jan-2023 10:27:03 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_afternoon_daily.php on line 174
+[26-Jan-2023 10:27:03 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_afternoon_daily.php on line 174
+[29-Jan-2023 21:56:58 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_morning_daily.php on line 172
+[29-Jan-2023 21:56:58 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_morning_daily.php on line 172
+[29-Jan-2023 21:56:58 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_morning_daily.php on line 172
+[29-Jan-2023 21:56:58 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_morning_daily.php on line 172
+[29-Jan-2023 21:56:58 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_morning_daily.php on line 172
+[29-Jan-2023 21:56:58 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_morning_daily.php on line 172
+[29-Jan-2023 21:56:58 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_morning_daily.php on line 172
+[29-Jan-2023 21:56:58 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_morning_daily.php on line 172
+[29-Jan-2023 21:56:58 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_morning_daily.php on line 172
+[29-Jan-2023 21:56:58 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_morning_daily.php on line 172
+[29-Jan-2023 21:56:58 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_morning_daily.php on line 172
+[29-Jan-2023 21:56:58 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_morning_daily.php on line 172
+[29-Jan-2023 21:57:00 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_afternoon_daily.php on line 174
+[29-Jan-2023 21:57:00 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_afternoon_daily.php on line 174
+[29-Jan-2023 21:57:00 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_afternoon_daily.php on line 174
+[29-Jan-2023 21:57:00 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_afternoon_daily.php on line 174
+[29-Jan-2023 21:57:00 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_afternoon_daily.php on line 174
+[29-Jan-2023 21:57:00 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_afternoon_daily.php on line 174
+[29-Jan-2023 21:57:00 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_afternoon_daily.php on line 174
+[29-Jan-2023 21:57:00 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_afternoon_daily.php on line 174
+[29-Jan-2023 21:57:00 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_afternoon_daily.php on line 174
+[29-Jan-2023 21:57:00 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_afternoon_daily.php on line 174
+[29-Jan-2023 21:57:00 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_afternoon_daily.php on line 174
+[29-Jan-2023 21:57:00 Asia/Manila] PHP Notice:  Undefined variable: Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_afternoon_daily.php on line 174
+[07-Feb-2023 09:12:21 Asia/Manila] PHP Warning:  Undefined variable $Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_afternoon_daily.php on line 98
+[07-Feb-2023 09:12:21 Asia/Manila] PHP Warning:  Undefined variable $Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_afternoon_daily.php on line 98
+[07-Feb-2023 09:12:21 Asia/Manila] PHP Warning:  Undefined variable $Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_afternoon_daily.php on line 98
+[07-Feb-2023 09:12:21 Asia/Manila] PHP Warning:  Undefined variable $Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_afternoon_daily.php on line 98
+[07-Feb-2023 09:12:21 Asia/Manila] PHP Warning:  Undefined variable $Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_afternoon_daily.php on line 98
+[07-Feb-2023 09:12:21 Asia/Manila] PHP Warning:  Undefined variable $Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_afternoon_daily.php on line 98
+[07-Feb-2023 09:12:21 Asia/Manila] PHP Warning:  Undefined variable $Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_afternoon_daily.php on line 98
+[07-Feb-2023 09:12:21 Asia/Manila] PHP Warning:  Undefined variable $Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_afternoon_daily.php on line 98
+[07-Feb-2023 09:12:21 Asia/Manila] PHP Warning:  Undefined variable $Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_afternoon_daily.php on line 98
+[07-Feb-2023 09:12:21 Asia/Manila] PHP Warning:  Undefined variable $Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_afternoon_daily.php on line 98
+[07-Feb-2023 09:12:21 Asia/Manila] PHP Warning:  Undefined variable $Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_afternoon_daily.php on line 98
+[07-Feb-2023 09:12:21 Asia/Manila] PHP Warning:  Undefined variable $Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_afternoon_daily.php on line 98
+[12-Feb-2023 12:27:51 UTC] PHP Parse error:  Unclosed '{' on line 57 does not match ')' in /home/tj6gnl1k9vif/public_html/admin/teacher/afternoon_report.php on line 85
+[12-Feb-2023 12:28:04 UTC] PHP Parse error:  Unclosed '{' on line 57 does not match ')' in /home/tj6gnl1k9vif/public_html/admin/teacher/afternoon_report.php on line 85
+[12-Feb-2023 12:34:24 UTC] PHP Fatal error:  Uncaught TypeError: date(): Argument #2 ($timestamp) must be of type ?int, string given in /home/tj6gnl1k9vif/public_html/admin/teacher/afternoon_report.php:84
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/admin/teacher/afternoon_report.php(84): date()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/admin/teacher/afternoon_report.php on line 84
+[12-Feb-2023 12:36:30 UTC] PHP Fatal error:  Uncaught TypeError: date(): Argument #2 ($timestamp) must be of type ?int, string given in /home/tj6gnl1k9vif/public_html/admin/teacher/afternoon_report.php:85
+Stack trace:
+#0 /home/tj6gnl1k9vif/public_html/admin/teacher/afternoon_report.php(85): date()
+#1 {main}
+  thrown in /home/tj6gnl1k9vif/public_html/admin/teacher/afternoon_report.php on line 85
+[12-Feb-2023 12:38:26 UTC] PHP Parse error:  syntax error, unexpected token "if" in /home/tj6gnl1k9vif/public_html/admin/teacher/afternoon_report.php on line 86
+[12-Feb-2023 12:38:47 UTC] PHP Parse error:  syntax error, unexpected token "if" in /home/tj6gnl1k9vif/public_html/admin/teacher/afternoon_report.php on line 86
+[12-Feb-2023 12:39:01 UTC] PHP Parse error:  syntax error, unexpected token "if" in /home/tj6gnl1k9vif/public_html/admin/teacher/afternoon_report.php on line 86
+[12-Feb-2023 20:46:34 Asia/Manila] PHP Warning:  Undefined variable $Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_morning_daily.php on line 97
+[12-Feb-2023 20:46:34 Asia/Manila] PHP Warning:  Undefined variable $Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_morning_daily.php on line 97
+[12-Feb-2023 20:46:34 Asia/Manila] PHP Warning:  Undefined variable $Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_morning_daily.php on line 97
+[12-Feb-2023 20:46:34 Asia/Manila] PHP Warning:  Undefined variable $Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_morning_daily.php on line 97
+[12-Feb-2023 20:46:34 Asia/Manila] PHP Warning:  Undefined variable $Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_morning_daily.php on line 97
+[12-Feb-2023 20:46:34 Asia/Manila] PHP Warning:  Undefined variable $Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_morning_daily.php on line 97
+[12-Feb-2023 20:46:34 Asia/Manila] PHP Warning:  Undefined variable $Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_morning_daily.php on line 97
+[12-Feb-2023 20:46:34 Asia/Manila] PHP Warning:  Undefined variable $Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_morning_daily.php on line 97
+[12-Feb-2023 20:46:34 Asia/Manila] PHP Warning:  Undefined variable $Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_morning_daily.php on line 97
+[12-Feb-2023 20:46:34 Asia/Manila] PHP Warning:  Undefined variable $Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_morning_daily.php on line 97
+[12-Feb-2023 20:46:34 Asia/Manila] PHP Warning:  Undefined variable $Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_morning_daily.php on line 97
+[12-Feb-2023 20:46:34 Asia/Manila] PHP Warning:  Undefined variable $Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_morning_daily.php on line 97
+[12-Feb-2023 20:46:44 Asia/Manila] PHP Warning:  Undefined variable $Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_afternoon_daily.php on line 98
+[12-Feb-2023 20:46:44 Asia/Manila] PHP Warning:  Undefined variable $Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_afternoon_daily.php on line 98
+[12-Feb-2023 20:46:44 Asia/Manila] PHP Warning:  Undefined variable $Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_afternoon_daily.php on line 98
+[12-Feb-2023 20:46:44 Asia/Manila] PHP Warning:  Undefined variable $Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_afternoon_daily.php on line 98
+[12-Feb-2023 20:46:44 Asia/Manila] PHP Warning:  Undefined variable $Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_afternoon_daily.php on line 98
+[12-Feb-2023 20:46:44 Asia/Manila] PHP Warning:  Undefined variable $Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_afternoon_daily.php on line 98
+[12-Feb-2023 20:46:44 Asia/Manila] PHP Warning:  Undefined variable $Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_afternoon_daily.php on line 98
+[12-Feb-2023 20:46:44 Asia/Manila] PHP Warning:  Undefined variable $Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_afternoon_daily.php on line 98
+[12-Feb-2023 20:46:44 Asia/Manila] PHP Warning:  Undefined variable $Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_afternoon_daily.php on line 98
+[12-Feb-2023 20:46:44 Asia/Manila] PHP Warning:  Undefined variable $Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_afternoon_daily.php on line 98
+[12-Feb-2023 20:46:44 Asia/Manila] PHP Warning:  Undefined variable $Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_afternoon_daily.php on line 98
+[12-Feb-2023 20:46:44 Asia/Manila] PHP Warning:  Undefined variable $Month in /home/tj6gnl1k9vif/public_html/admin/teacher/elementary_afternoon_daily.php on line 98
+[12-Feb-2023 14:34:19 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/admin/teacher/includes/main_sidebar.php on line 18
+[12-Feb-2023 14:34:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/admin/teacher/includes/main_sidebar.php on line 18
+[12-Feb-2023 14:34:19 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/admin/teacher/includes/main_sidebar.php on line 18
+[12-Feb-2023 14:34:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/admin/teacher/includes/main_sidebar.php on line 18
+[12-Feb-2023 14:34:19 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/admin/teacher/includes/main_sidebar.php on line 19
+[12-Feb-2023 14:34:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/admin/teacher/includes/main_sidebar.php on line 19
+[12-Feb-2023 14:34:19 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/admin/teacher/includes/main_sidebar.php on line 56
+[12-Feb-2023 14:34:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/admin/teacher/includes/main_sidebar.php on line 56
+[12-Feb-2023 14:34:19 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/admin/teacher/includes/main_sidebar.php on line 83
+[12-Feb-2023 14:34:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/admin/teacher/includes/main_sidebar.php on line 83
+[12-Feb-2023 14:34:19 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/admin/teacher/afternoon_report.php on line 51
+[12-Feb-2023 14:34:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/admin/teacher/afternoon_report.php on line 51
+[17-Feb-2023 05:40:41 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/admin/teacher/includes/main_sidebar.php on line 18
+[17-Feb-2023 05:40:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/admin/teacher/includes/main_sidebar.php on line 18
+[17-Feb-2023 05:40:41 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/admin/teacher/includes/main_sidebar.php on line 18
+[17-Feb-2023 05:40:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/admin/teacher/includes/main_sidebar.php on line 18
+[17-Feb-2023 05:40:41 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/admin/teacher/includes/main_sidebar.php on line 19
+[17-Feb-2023 05:40:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/admin/teacher/includes/main_sidebar.php on line 19
+[17-Feb-2023 05:40:41 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/admin/teacher/includes/main_sidebar.php on line 56
+[17-Feb-2023 05:40:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/admin/teacher/includes/main_sidebar.php on line 56
+[17-Feb-2023 05:40:41 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/admin/teacher/includes/main_sidebar.php on line 83
+[17-Feb-2023 05:40:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/admin/teacher/includes/main_sidebar.php on line 83
+[17-Feb-2023 05:40:41 UTC] PHP Warning:  Undefined variable $user in /home/tj6gnl1k9vif/public_html/admin/teacher/afternoon_report.php on line 51
+[17-Feb-2023 05:40:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/tj6gnl1k9vif/public_html/admin/teacher/afternoon_report.php on line 51
