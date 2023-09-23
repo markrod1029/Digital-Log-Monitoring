@@ -1,4 +1,4 @@
-# Digital Log MOnitoring with Data Analytics Preparatory School
+# Digital Log Monitoring with Data Analytics Preparatory School
 My Capstone Project 2023
 
 This capstone project consists of three user account types
